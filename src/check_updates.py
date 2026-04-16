@@ -3,7 +3,7 @@ from pathlib import Path
 import requests
 import zipfile
 import shutil
-
+ 
 URL = "https://raw.githubusercontent.com/Michele0303/tiktok-live-recorder/main/src/utils/enums.py"
 URL_REPO = (
     "https://github.com/Michele0303/tiktok-live-recorder/archive/refs/heads/main.zip"
